@@ -9,3 +9,9 @@ body{
     
 
 }
+footer{
+    margin-top: 5px;
+    margin-bottom: 30px;
+    color: black;
+    font-family: sans-serif;
+}
